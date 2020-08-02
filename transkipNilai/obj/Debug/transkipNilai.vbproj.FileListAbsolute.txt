@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\bin\Debug\transkipNilai.exe.config
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\bin\Debug\transkipNilai.exe
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\bin\Debug\transkipNilai.pdb
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\bin\Debug\transkipNilai.xml
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.exe
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.xml
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.pdb
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.MenuUtama.resources
+C:\Users\User\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Form3.resources
+C:\Users\User\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Form5.resources
+C:\Users\User\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Form6.resources
+C:\Users\User\documents\visual studio 2015\Projects\transkipNilai\transkipNilai\obj\Debug\transkipNilai.Form7.resources
